@@ -9,3 +9,4 @@ A number of file types are provided:
 - **optokit-4hp.fpd** - Panel file for Schaeffer's Front Panel Designer software. Use this as a base for customisation _or_ if you plan to have your panels fabbed by Schaeffer themselves.
 - **optothing-schematic.png** - the schematic.
 - **optothing-v3.xlsx** - Bill of Materials (BOM) in Excel format.
+- **optothing-v3.5.stl** - STL file for 3D printing
